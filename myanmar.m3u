@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1,[MM] Music
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+#EXTINF:-1,[MM] Mahar Bhawdi
+https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+#EXTINF:-1,[MM] MRTV-4 HD
+https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+#EXTINF:-1,[MM] MRTV-4 SD
+https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+#EXTINF:-1,[MM] Channel-7 HD
+https://ppradio.b-cdn.net/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
+#EXTINF:-1,[MM] Channel-7 SD
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+#EXTINF:-1,[MM] Mahar
+https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+#EXTINF:-1,[MM] Mahar Esport
+https://tv.mahar.live/esports/mahar.stream/esports/mahar1/chunks.m3u8
+#EXTINF:-1,[MM] Channel-K
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8
+#EXTINF:-1,[MM] FortuneTv
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+#EXTINF:-1,[MM] 5Plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w1869259503.m3u8
+#EXTINF:-1,[MM] MSC Movie
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+#EXTINF:-1,[MM] TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1,[MM] MVMTv
+https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
+#EXTINF:-1,[MM] MITV
+https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream.m3u8
+#EXTINF:-1,[MM] MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1,[MM] MRTV Entertainment
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1578284018.m3u8
+#EXTINF:-1,[MM] Music
+https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
+#EXTINF:-1,[MM] Light
+http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1,[MM] Golden Land
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1,[MM] MRTV
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1986607729.m3u8
+#EXTINF:-1,[MM] MRTV NRC
+https://l1-xl1.myanmarnet.com/relay/mrtvnrc/ch1/stream.m3u8
+#EXTINF:-1,[MM] MRTV Hluttaw
+https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/chunklist_w347202258.m3u8
+#EXTINF:-1,[MM] MWD HD
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1,[MM] MWD Variety
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1,[MM] MWD School
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
